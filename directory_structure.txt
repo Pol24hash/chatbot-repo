@@ -5,5 +5,6 @@ library-bot
 ├── app_with_token.py
 ├── directory_structure.txt
 ├── folderpath.py
+├── requirements.txt
 ├── test_connection.py
 └── token_log.jsonl

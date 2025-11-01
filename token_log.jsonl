@@ -214,3 +214,6 @@
 {"ts": "2025-11-01T18:06:43.141282", "prompt": "is Karl still available?", "prompt_tokens": 0, "response": "No, 'Karl' is not currently available.", "response_tokens": 0, "total_tokens_after": 0, "note": "database_query"}
 {"ts": "2025-11-01T18:06:48.058671", "prompt": "is Soda Pop still available?", "prompt_tokens": 0, "response": "No, 'Soda Pop' is not currently available.", "response_tokens": 0, "total_tokens_after": 0, "note": "database_query"}
 {"ts": "2025-11-01T18:07:07.817837", "prompt": "is catt typo still available?", "prompt_tokens": 0, "response": "Yes, 'catt typo' is available.", "response_tokens": 0, "total_tokens_after": 0, "note": "database_query"}
+{"ts": "2025-11-01T18:37:02.478062", "prompt": "helo", "prompt_tokens": 0, "response": "Sorry, I can only help with library-related inquiries.", "response_tokens": 0, "total_tokens_after": 0, "note": "filtered_locally"}
+{"ts": "2025-11-01T18:37:05.026689", "prompt": "hello", "prompt_tokens": 0, "response": "This is LibraX AI — how can I help you today?", "response_tokens": 0, "total_tokens_after": 0, "note": "greeting_detected"}
+{"ts": "2025-11-01T18:37:21.817852", "prompt": "who is the author of Web Dev 2?", "prompt_tokens": 0, "response": "The author of 'Web Dev 2' is Karl Iligan.", "response_tokens": 0, "total_tokens_after": 0, "note": "database_query"}
